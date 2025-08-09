@@ -1,17 +1,17 @@
-# Hi, I'm Javier Báez \ud83d\udc4b
+# Hi, I'm Javier Báez 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=javierbaezdev&label=Profile%20views&color=0e75b6&style=flat)
 
 I'm a passionate developer exploring web technologies, backend and cloud. I enjoy building projects with **Python**, **JavaScript**, **TypeScript** and modern frameworks. This profile README is a snapshot of who I am and what I like to build.
 
-## \ud83c\udf93 About Me
+## 🎓 About Me
 
-- \ud83d\udd17 **Open source and learning:** I love creating reusable templates and experimenting with new technologies.  
-- \ud83d\udd27 **Building templates:** Check out my `fastApiTemplate` repository for a quick start on scalable FastAPI services.  
-- \u2728 **Exploring serverless & cloud:** I'm experimenting with serverless architectures using TypeScript on AWS in `serverless-api-typescript-aws`.  
-- \u270f\ufe0f **Automations:** Tools like `followers_and_unfollowers` help automate simple tasks.
+- **Open source and learning:** I love creating reusable templates and experimenting with new technologies.
+- **Building templates:** Check out my `fastApiTemplate` repository for a quick start on scalable FastAPI services.
+- **Exploring serverless & cloud:** I'm experimenting with serverless architectures using TypeScript on AWS in `serverless-api-typescript-aws`.
+- **Automations:** Tools like `followers_and_unfollowers` help automate simple tasks.
 
-## \ud83c\udfa8 Featured Projects
+## 🎨 Featured Projects
 
 | Project | Description |
 | --- | --- |
@@ -22,7 +22,7 @@ I'm a passionate developer exploring web technologies, backend and cloud. I enjo
 
 For more projects, explore my repositories!
 
-## \u2699\ufe0f Languages & Tools
+## ⚙️ Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -33,7 +33,7 @@ For more projects, explore my repositories!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
-## \ud83d\udcca GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=javierbaezdev&show_icons=true&theme=github_dark" alt="Javier Baez's GitHub stats"/>
